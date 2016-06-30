@@ -1,0 +1,8 @@
+D:\the_sid\Games\BarleyBreak\TestConsole\bin\Debug\TestConsole.exe.config
+D:\the_sid\Games\BarleyBreak\TestConsole\bin\Debug\TestConsole.exe
+D:\the_sid\Games\BarleyBreak\TestConsole\bin\Debug\TestConsole.pdb
+D:\the_sid\Games\BarleyBreak\TestConsole\bin\Debug\BOL.dll
+D:\the_sid\Games\BarleyBreak\TestConsole\bin\Debug\BOL.pdb
+D:\the_sid\Games\BarleyBreak\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\the_sid\Games\BarleyBreak\TestConsole\obj\Debug\TestConsole.exe
+D:\the_sid\Games\BarleyBreak\TestConsole\obj\Debug\TestConsole.pdb
