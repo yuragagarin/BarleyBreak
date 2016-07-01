@@ -3,3 +3,8 @@ D:\the_sid\Games\BarleyBreak\BOL\bin\Debug\BOL.pdb
 D:\the_sid\Games\BarleyBreak\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
 D:\the_sid\Games\BarleyBreak\BOL\obj\Debug\BOL.dll
 D:\the_sid\Games\BarleyBreak\BOL\obj\Debug\BOL.pdb
+D:\the_sid\Git\BarleyBreak\BOL\bin\Debug\BOL.dll
+D:\the_sid\Git\BarleyBreak\BOL\bin\Debug\BOL.pdb
+D:\the_sid\Git\BarleyBreak\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+D:\the_sid\Git\BarleyBreak\BOL\obj\Debug\BOL.dll
+D:\the_sid\Git\BarleyBreak\BOL\obj\Debug\BOL.pdb
